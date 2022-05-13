@@ -1,0 +1,12 @@
+1) Realizar as seguintes operações no Git
+ Criar um repositório: git init 
+ Fazer alterações em um arquivo e gerar versões nele com commit: git add . || git commit -m "atualizações"
+ Recuperar uma versão a partir de um commit específico: git reset --hard "5250dda7002af9e8e309242a6d59482920d23591"
+ Clonar um repositório local em outra pasta: ?
+ Clonar um repositório remoto: git clone git@github.com:matheustimbo/vivENDO-App.git 
+ Subir uma versão para o Github: git push -u origin
+
+2) Realizar o deploy de uma aplicação Web (site simples) implementada no Node.Js na
+plataforma Heroku semelhante ao trabalho anterior porém usando o código de um
+repositório do Github
+ Mostrar que o site pode ser acessado pelo browser na url criada pelo Heroku.
